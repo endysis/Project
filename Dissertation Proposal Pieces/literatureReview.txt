@@ -1,0 +1,118 @@
+Naoko Umeki and Miwako Doi
+Sensation of Movement in Virtaul Space
+Electronics and Communications in Japan,Part 3, Vol 80, No 6, 1997
+
+The study determines whether distance perception comparable to that of real space can be obteained via navigation within a virtual space.
+
+- 21 inch monitor used to display scenes of the virtual space, the subject sit 50cm away from the screen.
+- Distance comparison in real space vs virtual space.
+- Distance in real space was over estimated, 'A subject makes an estimation based on the time it takes to scan the information along the route.' - The more objects to be scanned, the time is rewuired 
+- Similar objects used to colorrate size with objects. (Landmarks)
+- Aural (Walking footsteps) did not contribute to distance perception.
+
+- The paper wishes navigation in virtaul space should be studied more than just distance i.e. learning routes etc..
+
+- The study determined that the presense of a virtual iser combined with viewpoint fluctuation makes distance perception closer to the real world at longer distances 
+
+
+There has been a lot of research into VR and the visual part of the senseory system. Which is obvious because the paramount feature of VR if visual immersion.
+
+
+
+
+Themes
+- Distance estimation in the virtual space is close to real space
+In considering distance estiamation in virtual space, Umeki and Doi (1997) found evidence suggesting similar distance estimation in a
+
+Why
+- This experiment is using visual stimuli to influence sensory perception, in same way I am wanting to carry out similar reasearch
+
+How
+- My reasrch builds upon the study. If by using a monitor and view fluctuation can decieve the brain into percieving distance. Using a HMD will not only closen the gap between VR and real world estimation. Which validates the estperimentation with visual stimuli to simulate distance travel motion acceleration, or 
+However what is noticble here is the age of the experiment, using modern tech (VIVE) may produce results which further depection of a users sensory system.
+
+
+
+
+From a high level, visual input contributes greatly to sensory information, therefore utilisation of VR's visual component to simulate scenarios and gather results seems logical and is evident in a vast amount of reasearch.
+
+Research which uses visual stimuli to convey presense in a virualt environment, provides a coherent foundation that the project aim is acheivable. Umeki and Doi (1997) suggest distance estimation in a virtual room is simliar to that of in a real room. The 1997 experiment was conducted using a single 21 inch monitor to display virtual scenes. Yet, their research alone presents how a virtual environment can be perviced in a similar way to the real world. This indicates decpeption of the sensory nevous system can be achieved using basic hardware. From this, the use of Unity 5 the HTC Vive may produce results whcih suggest a greater influence on a users perception.
+
+
+
+-------------------------------------------
+
+Immersive virtual environments versus physical built environments: A benchmarking study for building design and user-built environment explorations
+
+Arsalan Heydariana, , Joao P. Carneiroa, , David Gerbera, b, , , Burcin Becerik-Gerbera, , Timothy Hayesc, , Wendy Woodc, 
+
+
+Themes 
+
+- Examining the difference in end-users' performances in office-related activities within a physical office space and a virtual office space. Performance
+
+Heydariana explores the performance of office space activites in both real and virtual envirnments. Even with increased complexity over distance estimation, results indicate differences in performance to be non significant. This re-enforces the idea of presence within VR. However, participants found one of the major limitations of the experiment was navigation through their virtual environment was not realistic. Naviagtion is a theme which needs improving inorder to acheveie a higher sense of presense within VR.
+
+
+- Results indicate that IVE is a satisfactory representation of the physical environment based on the performance measures and questionnaire data and there are no significant differences in performances on the authors' measures of everyday office-related tasks in a physical environment and in an IVE.
+
+- So this experiment does decive the sensory information into thinking it is a real world, but
+
+- participants felt the IVE experience was somewhat realistic, one of the major limitations of the experiment was that participants' navigation through the virtual environment was not realistic (e.g., walking from the entrance to the desk
+
+- Therefore improved navigation seems lke a point that my reasarch addresses
+
+In considering navigation
+
+
+
+Vection, according to Bernhard E.Riecke can ’significantly enhance self-motion perception’ within VR. His study suggests the illusion of self motion can be facilitated via the use of low cost locomotive interfaces, without psychical walking or complex motion. However another study by Timofey Grechkin suggests a rotate and walk technique. In his study, if a user is attempting to reach an out of bounds target ‘t’ the user is then prompted to go to a sub target ‘I’. As they walk to the I the world rotates to encompass the t again. My research would discover the extent to which one can rotate a world to create an illusion of more space within the VR environment. 
+
+
+
+Designing presence for real locomotion in immersive virtual environments: an affordance-based experiential approach
+
+
+To facillitate the illusion of locomotion Turchet argues that the rendering of a virtual body has to be consistent with the user's body. Prior research has demonstated the possiblity of identiying a walkers gender (Li et al. 1991) and emotions Bresin R (2006) based soley on auditory data. As a result, auditory input of a participant's anthropomorphic appearence could be a key part in simulating presence and locomotion within a virtual environment.
+
+
+previous research has demonstrated that it is possible to recognize the walker’s gender (Li et al. 1991), identity (Mäkelä et al. 2003), emotions (Giordano and Bresin 2006), and body posture (Pastore et al. 2008) based on auditory information alone contained in footstep sounds, suggesting therefore that an appropriate auditory rendering of the user’s anthropomorphic features can play an important role in the body awareness during the simulated locomotion.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

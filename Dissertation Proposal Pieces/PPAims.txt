@@ -1,0 +1,198 @@
+Intro 
+
+If we can convice people there walking straigh when really there walking in a bend we could use a smaller space.
+
+But could also be use for rehabilitation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aim & Objectives
+
+Aims and objectives needs to be measurable
+
+
+
+
+
+Cant evidence how VR can influence motor responses or the sensory 
+
+Whether a users perception of our motion or movement can be deceived by virtual reality.
+
+Perception of motions be perceived.
+
+
+
+
+
+
+
+
+
+
+
+
+Aim:
+To investigate the extent to which a users perception of motion can be devceived within virtual reality.
+
+
+Objectives:
+
+Understand how our perceptions can influence a humans motion.
+- It is imperitve to recognise perception influnce in motion. This will be a crucial assest when constructing a system and scenario which targets the primary aim. Information will be discoverd through reasrch of academic journals and book relating to cognitive science.
+
+Develop a scenario which forces a paricipant to rely on a sensory system to achieve a given goal.
+- A scenario presents a task and promtpts the user's to achieve a goal. A given task will to be very simple, i.e. walking in a straight line towards a point. From this, simple tasks will enable a clear and consise way to gather evaluative data. The scenario will be displayed within a virtual environment, therefore technological possiblities and limitations have to be considered. 
+
+Develop a VR system which presents the scenario.
+- The system will adhere to all scenario requirements using the Unity 5 Game engine to create the virtual environment. A HTC Vive will be utilised to display the scenario and track the user within a virtual plane.
+
+Construct one or a set of experiments which utilise the system to gather participant results.
+- A given experiment will evaluate the performance of a user using the VR system.
+- Evaluation of the project will heavily rely on the results the experiment produces.
+- Dont really know what else to write.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What takes over when one of our sensors is shut off?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Devleopment of the VR System
+
+
+
+
+Develop a scenario to test.
+Construct a set of experiments.
+Build VR System.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+To discover the extent to which Virtual Reality can deceive a users perception of trajectory and motion?
+To focused.
+
+Aim: Discover the 
+
+
+Investigating the use of VR for deception or infulencing sensor motor inputs.
+
+Can you make someone walk in a circle without them realising they are walking in a circle.
+
+Whether VR can be used to alter perceptions.
+
+Why trajectory and motion.
+
+Sensory motor changes and influences?
+
+
+
+
+
+
+
+
+
+
+
+Evaluation of participant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
