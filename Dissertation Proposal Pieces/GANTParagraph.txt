@@ -1,0 +1,124 @@
+General Research around Human perception.
+Scenario Design
+Experiment Design.
+Documentation
+System Design
+System Development
+System Testing
+Seek Participants
+Experiment Execution
+Incorporate results with documentation.
+
+
+
+
+
+
+
+
+
+
+
+Experiment Set up
+
+
+
+General Research into how our perceptions can influence a humans motion.
+Scenario Design
+Experiment Design
+Documetnation
+System Requirements/Design
+System Development
+System Testing
+Gather suitable participants.
+Experiment Execution.
+Incorporate Results with documentation.
+
+
+
+
+
+
+I have included more steps within my GANT chart than in my objectives, 
+is this ok?
+
+
+
+Conducting general research will be essential when 
+
+Scenario Design
+The scenario design will require steady thought, and will take influence from
+the information gatherd from the previous task. It will not take a long time
+to complete however will need to clear and target the project's aim.
+
+Experiment Design
+Design of the experiment will directly follow scenario design. This task will 
+decide how data is collected by participant enaging with the VR system.
+
+Documentation
+Doucmentation (Physical Dissertation) will be constructed from the starting date
+to the end of the project.
+
+System Requirements/Design
+The system design will be prepared by analying requriments from the scenario.
+Hardware and software requirements will be specified.
+
+System Development
+From the system design the system will first be developed in small incremental stages.
+
+System Testing
+Fucntional and Non functional requirments will be tested, in order to make sure
+
+Experiment Execution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
