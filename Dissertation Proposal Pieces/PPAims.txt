@@ -43,6 +43,10 @@ Perception of motions be perceived.
 
 
 
+
+
+
+
 Aim:
 To investigate the extent to which a users perception of motion can be deceived within virtual reality.
 
@@ -59,13 +63,21 @@ Design a VR system which approprialty meets the needs of the scenario design.
 - The system design will be prepared by analying requriments from the scenario.
 - Hardware and software requirements will be considered in order to outline realistic capabilites of the system.
 
-Develop a VR system its design scematic and appropiatly presents the scenario.
+Develop a VR system which accuratly follows its design scematic and appropiatly presents the scenario.
 - The system will adhere to all scenario requirements using the Unity 5 Game engine to create the virtual environment. A HTC Vive will be utilised to display the scenario and track the user within a virtual plane.
 
 Construct one or a set of experiments, which utilise the system to gather participant results.
 - A given experiment will evaluate the performance of a user using the VR system.
 
 Evaluate future applications of the VR system or later evolutions of the developed technology.
+
+
+
+
+
+
+
+
 
 
 
