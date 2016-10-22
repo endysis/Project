@@ -44,24 +44,54 @@ Perception of motions be perceived.
 
 
 Aim:
-To investigate the extent to which a users perception of motion can be devceived within virtual reality.
+To investigate the extent to which a users perception of motion can be deceived within virtual reality.
 
 
 Objectives:
 
-Understand how our perceptions can influence a humans motion.
-- It is imperitve to recognise perception influnce in motion. This will be a crucial assest when constructing a system and scenario which targets the primary aim. Information will be discoverd through reasrch of academic journals and book relating to cognitive science.
+Understand how perception can influence a human’s motion.
+- This research will be a crucial asset when constructing a system and scenario that targets the primary aim. Information will be discovered through research of academic journals and books relating to VR and cognitive science.
 
-Develop a scenario which forces a paricipant to rely on a sensory system to achieve a given goal.
-- A scenario presents a task and promtpts the user's to achieve a goal. A given task will to be very simple, i.e. walking in a straight line towards a point. From this, simple tasks will enable a clear and consise way to gather evaluative data. The scenario will be displayed within a virtual environment, therefore technological possiblities and limitations have to be considered. 
+Design a scenario, which forces a participant to rely on a sensory system to achieve a given goal.
+- A scenario presents a task and prompts the user's to achieve a goal. A given task will to be very simple, i.e. walking in a straight line towards a point. Simple tasks will enable a clear and concise way to gather evaluative data. The scenario will be displayed within a virtual environment; therefore technological possibilities and limitations have to be considered. 
 
-Develop a VR system which presents the scenario.
+Design a VR system which approprialty meets the needs of the scenario design.
+- The system design will be prepared by analying requriments from the scenario.
+- Hardware and software requirements will be considered in order to outline realistic capabilites of the system.
+
+Develop a VR system its design scematic and appropiatly presents the scenario.
 - The system will adhere to all scenario requirements using the Unity 5 Game engine to create the virtual environment. A HTC Vive will be utilised to display the scenario and track the user within a virtual plane.
 
-Construct one or a set of experiments which utilise the system to gather participant results.
+Construct one or a set of experiments, which utilise the system to gather participant results.
 - A given experiment will evaluate the performance of a user using the VR system.
-- Evaluation of the project will heavily rely on the results the experiment produces.
-- Dont really know what else to write.
+
+Evaluate future applications of the VR system or later evolutions of the developed technology.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -91,6 +121,7 @@ GANT
 
 
 What takes over when one of our sensors is shut off?
+
 
 
 
