@@ -60,11 +60,11 @@ Design a scenario, which forces a participant to rely on a sensory system to ach
 - A scenario presents a task and prompts the user's to achieve a goal. A given task will to be very simple, i.e. walking in a straight line towards a point. Simple tasks will enable a clear and concise way to gather evaluative data. The scenario will be displayed within a virtual environment; therefore technological possibilities and limitations have to be considered. 
 
 Design a VR system which approprialty meets the needs of the scenario design.
-- The system design will be prepared by analying requriments from the scenario.
+- The system design will incorporate all requirements from the scenario.
 - Hardware and software requirements will be considered in order to outline realistic capabilites of the system.
 
 Develop a VR system which accuratly follows its design scematic and appropiatly presents the scenario.
-- The system will adhere to all scenario requirements using the Unity 5 Game engine to create the virtual environment. A HTC Vive will be utilised to display the scenario and track the user within a virtual plane.
+- The system will adhere to the design schematic using the Unity 5 Game engine to create the virtual environment. A HTC Vive will be utilised to display the scenario and track the user within a virtual plane.
 
 Construct one or a set of experiments, which utilise the system to gather participant results.
 - A given experiment will evaluate the performance of a user using the VR system.
