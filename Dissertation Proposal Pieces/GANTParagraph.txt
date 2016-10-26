@@ -67,10 +67,22 @@ System Development
 From the system design the system will first be developed in small incremental stages.
 
 System Testing
-Fucntional and Non functional requirments will be tested, in order to make sure
+Fucntional and Non functional requirments will be tested in order to make sure the system is fully functional when conduting the experiment.
 
 Experiment Execution
 
+
+Hi there John
+
+Attatchined is my proposal draft (Very Rough).
+
+As you will find I am a little confussed between the main obectives and Gant chart objectives. Should they be identical? 
+
+Thank you for your time
+
+Kind Regards
+
+O'Shea
 
 
 
