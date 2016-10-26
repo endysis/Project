@@ -1,0 +1,120 @@
+Gant Chart -
+
+Should have a list of all the tasks
+Task can be objectives the task are things is need to do to complet my project
+For the the team to say where do i need to be in ... months time.
+It for 
+
+Break down into tasks which end up into tangiable things i.e.
+
+
+Research {
+Find appropirate literature relating to human perception.
+Identify and note sections which aid project aims.
+}
+
+Start dissertaion literary review.
+
+
+Scope {
+Analyse research to determine viable scenarios.
+Determine scenarios.
+Gather resources/appertus required to implement scenarios.
+}
+
+Experiment Design {
+Design experiment for system 1
+Design experiemnt for system 2
+}
+
+System Design {
+Review scenario specifications.
+Develop StoryBoard for scenario 1.
+Develop storyboard for scenario 2.
+Outline functional requirements for VR programs.
+Develop High level compnent design for each program.
+Evaluate designs against fucntional specifications.
+}
+
+Start methods section of disseration 
+
+System Setup {
+Environment Set Up
+Implement Vive Camera Rig into unity.
+Implement Leap motion functionality.
+}
+
+System Develpoment 1 {
+Walking Experiment Implementation
+Use the environment set up
+Create and fill Scence for VR.
+Implement environmental alteration.
+Evaluation.
+}
+
+System Development 1 {
+Swing Experiment Implementation
+Use the environment set up
+Create and fill Scence for VR.
+Implement environmental alteration.
+Evaluation.  }
+
+Start introduction of dissertaion.
+
+Testing {
+Provide functional testing on system 1.
+Note deatils of required revisions.
+Provide funtional testing on system 2.
+Note deatils of required revisions.
+}
+
+System Revison {
+Implent required revisions on system 1.
+Go back to testing pahse for system 1. 
+Implent required revisions on system 2
+Go back to testing pahse for system 2. 
+}
+
+Experiment {
+Gather particpants for experiment
+Conduct experiment for system 1.
+Conduct experiment for system 2.
+}
+
+Data Observation {
+Place data in ..
+}
+
+Conduct Results Chaper
+Conduct Analysis Chapter
+Conduct Discussion Chapter
+Conduct Conclusions chapter
+Conduct Futre Work Chapter
+
+Output draft
+
+
+
+
+Image Processing Deadline - 08/12/2016
+
+Mobile Computing Deadline - 22/12/2016
+Software Engineering Deadline - 22/12/2016
+
+Exam Week 1 - 09/01/2016
+
+Cross Platform Deadline - 04/05/2017
+Exam Week 2 - 09/05/2017
+
+
+
+
+
+
+
+
+
+
+
+
+
