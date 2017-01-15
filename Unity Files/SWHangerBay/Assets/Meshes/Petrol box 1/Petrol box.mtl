@@ -1,0 +1,72 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+# Multi/Sub Material__35 (8) to come 
+#
+newmtl ASPIMCAJ
+Ka  0.3 0.3 0.2
+Kd  0.3 0.3 0.2
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  4.7
+illum 2
+#
+newmtl ASPIPARO
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.6
+illum 2
+bump APIRBTUB.JPG
+#
+newmtl ASPIPBLA
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  9.9
+illum 2
+#
+newmtl ASPIPGRI
+Ka  0.7 0.7 0.7
+Kd  0.7 0.7 0.7
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  9.9
+illum 2
+#
+newmtl ASPIPLAT
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  9.3
+illum 2
+#
+newmtl ASPIPNEG
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  9.9
+illum 2
+#
+newmtl ASPIPROJ
+Ka  0.9 0.2 0.0
+Kd  0.9 0.2 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  9.9
+illum 2
+#
+newmtl ASPIPVER
+Ka  0.4 0.4 0.1
+Kd  0.4 0.4 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  9.9
+illum 2
+#
+# Multi/Sub Material__35 done 
+#
+# EOF
