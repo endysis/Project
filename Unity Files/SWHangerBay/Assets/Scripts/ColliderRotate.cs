@@ -4,6 +4,7 @@ using System.Collections;
 public class ColliderRotate : MonoBehaviour {
 
 	public GameObject world;
+    public GameObject objectPoint;
 	public bool left = false;
 	public bool right = false;
 
@@ -29,9 +30,9 @@ public class ColliderRotate : MonoBehaviour {
 			// Do nothing
 			Debug.Log ("Impossible Input || No direction selected");
 		} else if (left == true) {
-			world.transform.RotateAround(world.transform.position,-world.transform.up * rotationAmount, Time.deltaTime * rotationSpeed);
+			world.transform.RotateAround(objectPoint.transform.position,-world.transform.up * rotationAmount, Time.deltaTime * rotationSpeed);
 		} else if(right == true) {
-			world.transform.RotateAround(world.transform.position,world.transform.up * rotationAmount, Time.deltaTime * rotationSpeed);
+			world.transform.RotateAround(objectPoint.transform.position,world.transform.up * rotationAmount, Time.deltaTime * rotationSpeed);
 		}  
 	}
 
