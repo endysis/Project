@@ -1,0 +1,17 @@
+Cognitive resource demands of redirected walking’
+
+Gerd states limited range of tracking, which is a key problem within VR.
+He suggests there are alternatives to hardware components. (In this sence we are talking about tricking the sensory peroception of a user)
+He states the human brain tends to unknowingly compensate for small incostinancies during walking, so this would enable the user to user a virtual space which is larger
+than the real world domain.
+However he suggests that a paths less than 22 meters long may lead to the user observing a discrepency. (As a result the virtual environment will be large.
+He notes that the process of re direction forces the user to compensate in some way, this meansb the requirement of
+additional cognitive resources may be needed from the user.
+
+So he is suggesting the use of tasks whist rotating in order to measure the effect rotation has on cognitive resources.
+
+The research suggests that an increase in manipulation has a direct correlation with dereased task performacne.
+
+
+
+
