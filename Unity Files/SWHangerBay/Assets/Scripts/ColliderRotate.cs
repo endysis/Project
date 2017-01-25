@@ -5,24 +5,23 @@ public class ColliderRotate : MonoBehaviour {
 
 	public GameObject world;
     public GameObject objectPoint;
+    public GameObject distractObject;
 	public bool left = false;
 	public bool right = false;
-
 	public float rotationAmount;
 	public float rotationSpeed;
+    private Animator anim;
 
 
 	// Use this for initialization
 	void Start () {
-	
+        anim = distractObject.GetComponent<Animator>();
 	}
 	
 	// Update is called once per frame
 	void Update () {
 		Debug.Log("Rotation Amount : " + world.transform.rotation.y);
 	}
-
-
 
 	void OnTriggerEnter(Collider other){
 		Debug.Log("Collided");
@@ -35,8 +34,6 @@ public class ColliderRotate : MonoBehaviour {
 			world.transform.RotateAround(objectPoint.transform.position,world.transform.up * rotationAmount, Time.deltaTime * rotationSpeed);
 		}  
 	}
-
-
 }
 
 
