@@ -1,0 +1,172 @@
+
+
+Theme 
+
+
+In essense, sensory illusion via VR best describes the main theme of this dissertation. In researching academic
+literature, sensory illusion in VR can be facilitated in many ways.
+
+Redirrection is a sub-theme which kept on occuring when reading literature. The main point of redirection
+in VR is to alter contininuity between virtual and real world rotation. This addresses to navigational
+restiction within VR, where a user wishes to walk a around a virtual plane which is larger then the real plane.
+
+
+
+
+
+
+Sub theme
+
+Redirection.
+
+
+Author
+Steinlick - Estimation
+
+
+
+Aim of paper
+- To discover the amount of deviation which is tolerable between vision and proprioception while the user is moving.
+- Similar to the theme of illusion, users had to disciminiate between real world and virtual motion.
+
+
+Type of study
+Questionaire
+- They had to state whether physical movement was greater than the virtual counterpart or not.
+
+
+Key findings
+
+Rotation
+
+Users can be turned physically about 49 percent more or 20 percent less than the perceived virtual rotation
+without noticing a difference. 
+
+Users are more sensitive to scence motion if the scene moves against head rotataion than if the scence moves
+with ther head rotation.
+
+
+Walking
+Walking distances can be downscaled by 14 percent and upscaled by 26 percent when they are mapped to virtual
+motions.
+
+
+
+Pros of this research
+Already shows that users can be illuded but this is already apartent, the good thing about this research,
+is th fact that it shows tested thresholds, which can be applied to this project.
+
+
+Cons
+Does not attempt to test if objects close or far from the camera alter results. 
+
+
+
+
+
+Author
+Stefania Serafin - Estmation of detection thresholds for acoustc based redirected walking techniques.
+
+
+
+Author
+- Stefania Serafin - Estimation audio.
+
+
+Aim of paper
+- Understand the detection threshold for auditory based redirected walking techniues.
+- Two experiments one based on audio, the user turns until they hear an alarm clock in thier direction.
+- Ther other, curvature along a path.
+
+
+Key findings
+- Vision is more likely to dominate proprioception and vestibular cues compared to audio.  
+
+
+Pros
+- Brings the idea of incororating 3D audio into the project.
+
+
+Cons 
+- Uses audio alone in the experiment, not audio with visual stimuli
+
+
+
+
+Sub theme of Motion
+
+Author 
+Anatole Lecuyer
+
+
+Aim of paper
+- The paper broadly looks into different ways VR can illude the senses.
+- Looks at combining haptic feedback with vistual stimuli.
+- Their research suggests that vection (feeling of moving, via other objects moving around you) 
+  can be improved with haptic feedback.
+
+- They used a devie called a HapSeat which applies haptic feedback to certain areas to create a sensation
+  of self motion.
+
+
+Type of study
+
+
+
+
+key findings
+
+
+
+pros
+- Shows how haptic feedback can be used to increase sensation of motion, this may be handy for the experiments
+
+
+cons
+- Still requires aditional hardware to create the experience.
+
+
+
+
+
+
+Author
+Gerd Bruder , Frank Steinickle
+
+
+Aim of paper
+- To see is visual ilusions can alter a user's perception of distance
+
+Key findings
+- Users tend to understimate distances traveled in VR and reuslts show that visual illusions can
+  compensate for the inacurate estimations.
+
+
+
+pros
+- 
+
+
+cons
+- Could distract a user from the virtual world.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
