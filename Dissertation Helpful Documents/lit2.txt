@@ -23,8 +23,6 @@ Redirection.
 Author
 Steinlick - Estimation
 
-
-
 Aim of paper
 - To discover the amount of deviation which is tolerable between vision and proprioception while the user is moving.
 - Similar to the theme of illusion, users had to disciminiate between real world and virtual motion.
@@ -33,6 +31,7 @@ Aim of paper
 Type of study
 Questionaire
 - They had to state whether physical movement was greater than the virtual counterpart or not.
+
 
 
 Key findings
@@ -59,6 +58,7 @@ is th fact that it shows tested thresholds, which can be applied to this project
 
 Cons
 Does not attempt to test if objects close or far from the camera alter results. 
+Amount of manipulation that goes unoticed is limited.
 
 
 
