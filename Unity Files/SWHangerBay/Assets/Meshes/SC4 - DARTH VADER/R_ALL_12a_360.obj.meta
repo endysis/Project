@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: 4dbf6c701059a6f4d864987959279a91
+timeCreated: 1485518188
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ATAMA_001_geo
+    100002: ATAMA_002_geo
+    100004: ATAMA_003_geo
+    100006: ATAMA_004_geo
+    100008: ATAMA_005_geo
+    100010: facemask_001_geo
+    100012: facemask_002_geo
+    100014: facemask_003_geo
+    100016: facemask_004_geo
+    100018: facemask_005_geo
+    100020: facemask_006_geo
+    100022: facemask_007_geo
+    100024: facemask_008_geo
+    100026: facemask_009_geo
+    100028: facemask_010_geo
+    100030: facemask_011_geo
+    100032: HIZA_L_001_geo
+    100034: HIZA_R_001_geo
+    100036: KATA_RT_L__prot_x0_001_geo
+    100038: KATA_RT_R__prot_x0_001_geo
+    100040: KOSHI_001_geo
+    100042: KOSHI_002_geo
+    100044: MUNE3__slerp_MUNE2__i70_001_geo
+    100046: MUNE3__slerp_MUNE2__i70_002_geo
+    100048: //RootNode
+    400000: ATAMA_001_geo
+    400002: ATAMA_002_geo
+    400004: ATAMA_003_geo
+    400006: ATAMA_004_geo
+    400008: ATAMA_005_geo
+    400010: facemask_001_geo
+    400012: facemask_002_geo
+    400014: facemask_003_geo
+    400016: facemask_004_geo
+    400018: facemask_005_geo
+    400020: facemask_006_geo
+    400022: facemask_007_geo
+    400024: facemask_008_geo
+    400026: facemask_009_geo
+    400028: facemask_010_geo
+    400030: facemask_011_geo
+    400032: HIZA_L_001_geo
+    400034: HIZA_R_001_geo
+    400036: KATA_RT_L__prot_x0_001_geo
+    400038: KATA_RT_R__prot_x0_001_geo
+    400040: KOSHI_001_geo
+    400042: KOSHI_002_geo
+    400044: MUNE3__slerp_MUNE2__i70_001_geo
+    400046: MUNE3__slerp_MUNE2__i70_002_geo
+    400048: //RootNode
+    2300000: ATAMA_001_geo
+    2300002: ATAMA_002_geo
+    2300004: ATAMA_003_geo
+    2300006: ATAMA_004_geo
+    2300008: ATAMA_005_geo
+    2300010: facemask_001_geo
+    2300012: facemask_002_geo
+    2300014: facemask_003_geo
+    2300016: facemask_004_geo
+    2300018: facemask_005_geo
+    2300020: facemask_006_geo
+    2300022: facemask_007_geo
+    2300024: facemask_008_geo
+    2300026: facemask_009_geo
+    2300028: facemask_010_geo
+    2300030: facemask_011_geo
+    2300032: HIZA_L_001_geo
+    2300034: HIZA_R_001_geo
+    2300036: KATA_RT_L__prot_x0_001_geo
+    2300038: KATA_RT_R__prot_x0_001_geo
+    2300040: KOSHI_001_geo
+    2300042: KOSHI_002_geo
+    2300044: MUNE3__slerp_MUNE2__i70_001_geo
+    2300046: MUNE3__slerp_MUNE2__i70_002_geo
+    3300000: ATAMA_001_geo
+    3300002: ATAMA_002_geo
+    3300004: ATAMA_003_geo
+    3300006: ATAMA_004_geo
+    3300008: ATAMA_005_geo
+    3300010: facemask_001_geo
+    3300012: facemask_002_geo
+    3300014: facemask_003_geo
+    3300016: facemask_004_geo
+    3300018: facemask_005_geo
+    3300020: facemask_006_geo
+    3300022: facemask_007_geo
+    3300024: facemask_008_geo
+    3300026: facemask_009_geo
+    3300028: facemask_010_geo
+    3300030: facemask_011_geo
+    3300032: HIZA_L_001_geo
+    3300034: HIZA_R_001_geo
+    3300036: KATA_RT_L__prot_x0_001_geo
+    3300038: KATA_RT_R__prot_x0_001_geo
+    3300040: KOSHI_001_geo
+    3300042: KOSHI_002_geo
+    3300044: MUNE3__slerp_MUNE2__i70_001_geo
+    3300046: MUNE3__slerp_MUNE2__i70_002_geo
+    4300000: ATAMA_001_geo
+    4300002: ATAMA_002_geo
+    4300004: ATAMA_003_geo
+    4300006: ATAMA_004_geo
+    4300008: ATAMA_005_geo
+    4300010: facemask_001_geo
+    4300012: facemask_002_geo
+    4300014: facemask_003_geo
+    4300016: facemask_004_geo
+    4300018: facemask_005_geo
+    4300020: facemask_006_geo
+    4300022: facemask_007_geo
+    4300024: facemask_008_geo
+    4300026: facemask_009_geo
+    4300028: facemask_010_geo
+    4300030: facemask_011_geo
+    4300032: HIZA_L_001_geo
+    4300034: HIZA_R_001_geo
+    4300036: KATA_RT_L__prot_x0_001_geo
+    4300038: KATA_RT_R__prot_x0_001_geo
+    4300040: KOSHI_001_geo
+    4300042: KOSHI_002_geo
+    4300044: MUNE3__slerp_MUNE2__i70_001_geo
+    4300046: MUNE3__slerp_MUNE2__i70_002_geo
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
