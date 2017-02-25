@@ -141,6 +141,7 @@
     <Compile Include="Assets\OpenDoorMenu.cs" />
     <Compile Include="Assets\Scripts\ColliderRotate.cs" />
     <Compile Include="Assets\Scripts\Motion.cs" />
+    <Compile Include="Assets\Scripts\OrbitRotate.cs" />
     <Compile Include="Assets\Scripts\RotateUpdate.cs" />
     <Compile Include="Assets\Scripts\lightSaber.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_GazeTracker.cs" />
