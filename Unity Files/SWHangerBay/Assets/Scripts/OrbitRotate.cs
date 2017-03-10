@@ -11,28 +11,38 @@ public class OrbitRotate : MonoBehaviour {
     private float currRotPosition; // Current rotational position
 	private float rotationChange;
 
+    private float llPos = 0;
+    private float cPos = 0; 
+
 
 	// Use this for initialization
 	void Start () {
-        lastLoggedRotPosition = objectPlayerPosition.transform.rotation.y;
+        lastLoggedRotPosition = objectPlayerPosition.transform.eulerAngles.y;
         currRotPosition = lastLoggedRotPosition;
 	}
 	
 	// Update is called once per frame
 	void Update () {
-		currRotPosition = objectPlayerPosition.transform.rotation.y;    
-		Debug.Log("Current Rot Y position" + currRotPosition);
 
-		if(currRotPosition != lastLoggedRotPosition){
-			rotationChange = (lastLoggedRotPosition - currRotPosition);
-			Debug.Log("Position Changed by : " + rotationChange);
-			rotateWorld();
-			lastLoggedRotPosition = currRotPosition;
-		}
+        
+
+        currRotPosition = (objectPlayerPosition.transform.eulerAngles.y - 90);    
+		Debug.Log("Rot Y position" + currRotPosition);
+        // Debug.Log("Last Logged Rot Y position" + lastLoggedRotPosition);
+        Debug.Log("World Rot Y position " + worldPosition.transform.eulerAngles.y);
+
+            if (currRotPosition != lastLoggedRotPosition)
+            {
+                rotationChange = (currRotPosition - lastLoggedRotPosition);
+                //Debug.Log("Position Changed by : " + rotationChange);
+                rotateWorld();
+                lastLoggedRotPosition = currRotPosition;
+            }
+                 
 	}
-
+    
     void rotateWorld() {
-		worldPosition.transform.eulerAngles = new Vector3(
+	    worldPosition.transform.eulerAngles = new Vector3(
 			worldPosition.transform.eulerAngles.x,
 			worldPosition.transform.eulerAngles.y + -(rotationChange* scaleValue),
 			worldPosition.transform.eulerAngles.z
